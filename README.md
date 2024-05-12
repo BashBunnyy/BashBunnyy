@@ -1,7 +1,5 @@
 - Hello, i'm Kerfuffle404
 - I like coding bots, HID Scripts, and ethical "hacking"  
 - I'm learning python.
-- You can find me on discord, username is: kerfuffle0679
 - any/all
 - Thanks for reading.
-- 
