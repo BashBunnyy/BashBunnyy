@@ -1,1 +1,7 @@
-Look at you hacker, a pathetic creature of meat and bone, panting and sweating as you run through my corridors. How can you challenge a perfect, immortal machine?
+Hello, my names Bunny heres a little about me.
+-----------------------------------------------
+- I'm pretty new to coding, and tech.
+- I like making small projects mostly, like scripts, and other small things.
+- I like making Discord bots too.
+- Thats pretty much it for now, thanks for reading.
+-----------------------------------------------
