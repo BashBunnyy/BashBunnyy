@@ -18,4 +18,4 @@ I'm currently Learning C, Python, and I'm trying to get into networking!
 ![here](https://github.com/Bunn7/Kerfuffle404/blob/main/waowdank.png)
 
 <sup>No matter where you are. Everyone is always connected.</sub><br>
-<sup><sub>Pst...<a href="https://dankpad.xyz">Dankpad.xyz</a></sub></sup>
+<sup>Pst...<a href="https://dankpad.xyz">Dankpad.xyz</a></sub>
