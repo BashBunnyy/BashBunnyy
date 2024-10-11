@@ -10,8 +10,8 @@ Hello! My name is Bunny!
 **Whatcha learnin?**<br>
 I'm currently Learning C, Python, and I'm trying to get into networking!
 
-* “Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”<br>
-<a>-Edward Snowden</a>
+“Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”<br>
+<a>- Edward Snowden</a>
 
 **"Arch you say? What's your setup look like?"**<br>
 - Your stupid ass prob../j
