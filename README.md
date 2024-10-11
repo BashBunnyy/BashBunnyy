@@ -1,8 +1,8 @@
-# ____                   _____ 
-#| __ ) _   _ _ __  _ __|___  |
-#|  _ \| | | | '_ \| '_ \  / / 
-#| |_) | |_| | | | | | | |/ /  
-#|____/ \__,_|_| |_|_| |_/_/   
+ ____                   _____ 
+| __ ) _   _ _ __  _ __|___  |
+|  _ \| | | | '_ \| '_ \  / / 
+| |_) | |_| | | | | | | |/ /  
+|____/ \__,_|_| |_|_| |_/_/   
 
 Hello! My name is Bunny!
 
@@ -19,7 +19,7 @@ I'm currently Learning C, Python, and I'm trying to get into networking!
 
 **"Arch you say? What's your setup look like?"**
 ― Your stupid ass prob../j
-![](https://imgur.com/a/waow-dank-SkWzRfJ)
+![img](https://imgur.com/a/waow-dank-SkWzRfJ)
 
 
 <sup><sub>No matter where you are. Everyone is always connected.</sub></sup>
