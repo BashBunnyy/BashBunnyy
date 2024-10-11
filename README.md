@@ -17,7 +17,7 @@ I'm currently Learning C, Python, and I'm trying to get into networking!
 <a>- Your stupid ass prob../j<a><br>
 ![here](https://github.com/Bunn7/Kerfuffle404/blob/main/waowdank.png)
 
-***fin***
+***fin***<br>
 Whelp, that's about it! Sorry there's not much, I've been quite busy with other things.<br>
 But hopefully I'll code more in the future!!<br>
 Bye bye!!!!
