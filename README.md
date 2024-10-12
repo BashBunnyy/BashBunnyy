@@ -7,6 +7,11 @@ Hello! My name is Bunny!
  * I also make bash/batch scripts sometimes.
  * I use Arch, along with i3wm. ^^
 
+**Whatcha know?**<br>
+I'm pretty alright at html and css but I'm still learning nonetheless!<br>
+Infact, the code for my ![website](https://github.com/Bunn7/Source-for-Dankpad.xyz) is on here!<br>
+I of course accept critisim, as long as it's actually constructive. ^^"
+
 **Whatcha learnin?**<br>
 I'm currently Learning C, Python, and I'm trying to get into networking!
 
