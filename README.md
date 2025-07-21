@@ -1,30 +1,4 @@
-# Bunn7@Dankpad
-
-Hello! My name is Bunny!
-
-**About me**
- * I enjoy messing with a lot of things, whether it's Linux, html, or even Discord bots. :D
- * I also make bash/batch scripts sometimes.
- * I use Arch, along with i3wm. ^^
-
-**Whatcha know?**<br>
-I'm pretty alright at html and css but I'm still learning nonetheless!<br>
-Infact, the code for my ![website](https://github.com/Bunn7/Source-for-Dankpad.xyz) is on here!<br>
-I of course accept critisim, as long as it's actually constructive. ^^"
-
-**Whatcha learnin?**<br>
-I'm currently Learning C, Python, and I'm trying to get into networking!
-
-“Ultimately, arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”<br>
-<a>  - Edward Snowden</a>
-
-**"Arch you say? What's your setup look like?"**<br>
-<a>- Your stupid ass prob../j<a><br>
-![here](https://github.com/Bunn7/Kerfuffle404/blob/main/waowdank.png)<br>
-
-Whelp, that's about it! Sorry there's not much, I've been quite busy with other things.<br>
-But hopefully I'll code more in the future!!<br>
-Bye bye!!!!
-
-<sup>No matter where you are. Everyone is always connected.</sub><br>
-<sup>Pst...<a href="https://dankpad.xyz">Dankpad.xyz</a></sub>
+<h1>Sysko</h1>
+<p>I make shit sometimes</p>
+<br><br>
+<sup><sub><a href="https://www.google.com/search?tbm=isch&q=bears">#FREEBEAR</a>, <a href="https://www.urbandictionary.com/define.php?term=DG4L">#DG4L</a>, <a href="https://www.urbandictionary.com/define.php?term=spamtec">#STCISTHEGREATEST</a></sub></sup>
